@@ -8,13 +8,13 @@ CoWork-OS is not an app, not a SaaS product, and not tied to a specific AI tool.
 
 ## Status
 
-This repository is a clean-room public scaffold.
+This repository is a clean-room public scaffold prepared for public release review.
 
-- Git repository: not initialized
+- Git repository: initialized locally
 - Remote: not configured
-- Initial commit: not created
+- Public release: not published
 - Private project data: not included
-- Public release status: reviewed scaffold
+- License owner: pending explicit owner decision
 
 ## Architecture
 
@@ -86,7 +86,3 @@ When unsure, stop and ask for the smallest specific approval.
 - Secrets or credentials
 - Tool-specific private configuration
 - Real customer, organization, or operational data
-
-## Next Step
-
-Next step: initialize a local Git repository and create the first clean-room commit after review approval.
