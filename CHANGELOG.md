@@ -2,6 +2,7 @@
 
 ## Unreleased
 
+- Add public v0.1 roadmap.
 - Create clean-room public scaffold.
 - Add tool-agnostic architecture documentation.
 - Add audit-only prompt and handoff template.
