@@ -8,13 +8,11 @@ CoWork-OS is not an app, not a SaaS product, and not tied to a specific AI tool.
 
 ## Status
 
-This repository is a clean-room public scaffold prepared for public release review.
+This repository is a clean-room public scaffold prepared for public release.
 
-- Git repository: initialized locally
-- Remote: not configured
-- Public release: not published
 - Private project data: not included
-- License owner: pending explicit owner decision
+- Real customer or operational data: not included
+- License: MIT, copyright CoWork-OS Contributors
 
 ## Architecture
 
