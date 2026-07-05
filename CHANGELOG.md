@@ -2,6 +2,7 @@
 
 ## Unreleased
 
+- Improve the audit-only onboarding workflow, guide, and bootstrap prompt.
 - Add public v0.1 roadmap.
 - Create clean-room public scaffold.
 - Add tool-agnostic architecture documentation.
