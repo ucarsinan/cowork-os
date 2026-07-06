@@ -2,6 +2,7 @@
 
 ## Unreleased
 
+- Add tool adapter comparison and adapter selection guidance.
 - Add agent team routing documentation.
 - Add public-safe memory model documentation.
 - Add a consolidated review gate checklist.
