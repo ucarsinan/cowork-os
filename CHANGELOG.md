@@ -2,6 +2,7 @@
 
 ## Unreleased
 
+- Add repository onboarding guide, workflow, prompt, template, and synthetic sample.
 - Add tool adapter comparison and adapter selection guidance.
 - Add agent team routing documentation.
 - Add public-safe memory model documentation.
