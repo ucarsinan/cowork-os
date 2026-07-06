@@ -2,6 +2,7 @@
 
 ## Unreleased
 
+- Add public-safe memory model documentation.
 - Add a consolidated review gate checklist.
 - Improve the audit-only onboarding workflow, guide, and bootstrap prompt.
 - Add public v0.1 roadmap.
